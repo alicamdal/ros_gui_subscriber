@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='lent',
-    maintainer_email='alicamdal0@gmail.com',
+    maintainer_email='camdala@tcd.ie',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
